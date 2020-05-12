@@ -15,7 +15,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from cidades.core.views import home
+from cidades.base.views import register_form
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('api/', home),
+    path('', register_form)
 ]
