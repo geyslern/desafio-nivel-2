@@ -5,10 +5,19 @@ verify_ssl = true
 
 [dev-packages]
 flake8 = "*"
+<<<<<<< HEAD
+=======
+pytest-cov = "*"
+>>>>>>> 1
 
 [packages]
 django = "*"
 gunicorn = "*"
+<<<<<<< HEAD
+=======
+pytest-django = "*"
+python-decouple = "*"
+>>>>>>> 1
 
 [requires]
 python_version = "3.8"
