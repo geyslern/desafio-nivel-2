@@ -1,11 +1,7 @@
 {
     "_meta": {
         "hash": {
-<<<<<<< HEAD
-            "sha256": "18ec5ffb09a25e214c6d5c5977e1e4b558cff4fa7d6118d616c141597d0310b3"
-=======
             "sha256": "db26975958176daddf61ffdb007b7c16724bb9e06b967a3413e5733ea29a1a2b"
->>>>>>> 1
         },
         "pipfile-spec": 6,
         "requires": {
@@ -27,8 +23,6 @@
             ],
             "version": "==3.2.7"
         },
-<<<<<<< HEAD
-=======
         "attrs": {
             "hashes": [
                 "sha256:08a96c641c3a74e44eb59afb61a24f2cb9f4d7188748e76ba4bb5edfa3cb7d1c",
@@ -36,7 +30,6 @@
             ],
             "version": "==19.3.0"
         },
->>>>>>> 1
         "django": {
             "hashes": [
                 "sha256:051ba55d42daa3eeda3944a8e4df2bc96d4c62f94316dea217248a22563c3621",
@@ -53,8 +46,6 @@
             "index": "pypi",
             "version": "==20.0.4"
         },
-<<<<<<< HEAD
-=======
         "more-itertools": {
             "hashes": [
                 "sha256:5dd8bcf33e5f9513ffa06d5ad33d78f31e1931ac9a18f33d37e77a180d393a7c",
@@ -112,7 +103,6 @@
             "index": "pypi",
             "version": "==3.3"
         },
->>>>>>> 1
         "pytz": {
             "hashes": [
                 "sha256:a494d53b6d39c3c6e44c3bec237336e14305e4f29bbf800b599253057fbb79ed",
@@ -120,8 +110,6 @@
             ],
             "version": "==2020.1"
         },
-<<<<<<< HEAD
-=======
         "six": {
             "hashes": [
                 "sha256:236bdbdce46e6e6a3d61a337c0f8b763ca1e8717c03b369e87a7ec7ce1319c0a",
@@ -129,18 +117,12 @@
             ],
             "version": "==1.14.0"
         },
->>>>>>> 1
         "sqlparse": {
             "hashes": [
                 "sha256:022fb9c87b524d1f7862b3037e541f68597a730a8843245c349fc93e1643dc4e",
                 "sha256:e162203737712307dfe78860cc56c8da8a852ab2ee33750e33aeadf38d12c548"
             ],
             "version": "==0.3.1"
-<<<<<<< HEAD
-        }
-    },
-    "develop": {
-=======
         },
         "wcwidth": {
             "hashes": [
@@ -194,7 +176,6 @@
             ],
             "version": "==5.1"
         },
->>>>>>> 1
         "flake8": {
             "hashes": [
                 "sha256:6c1193b0c3f853ef763969238f6c81e9e63ace9d024518edc020d5f1d6d93195",
@@ -210,8 +191,6 @@
             ],
             "version": "==0.6.1"
         },
-<<<<<<< HEAD
-=======
         "more-itertools": {
             "hashes": [
                 "sha256:5dd8bcf33e5f9513ffa06d5ad33d78f31e1931ac9a18f33d37e77a180d393a7c",
@@ -240,7 +219,6 @@
             ],
             "version": "==1.8.1"
         },
->>>>>>> 1
         "pycodestyle": {
             "hashes": [
                 "sha256:2295e7b2f6b5bd100585ebcb1f616591b652db8a741695b3d8f5d28bdc934367",
@@ -254,8 +232,6 @@
                 "sha256:35b2d75ee967ea93b55750aa9edbbf72813e06a66ba54438df2cfac9e3c27fc8"
             ],
             "version": "==2.2.0"
-<<<<<<< HEAD
-=======
         },
         "pyparsing": {
             "hashes": [
@@ -292,7 +268,6 @@
                 "sha256:ee73862862a156bf77ff92b09034fc4825dd3af9cf81bc5b360668d425f3c5f1"
             ],
             "version": "==0.1.9"
->>>>>>> 1
         }
     }
 }
