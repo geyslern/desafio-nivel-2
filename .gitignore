@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-=======
 .env
->>>>>>> 1
 .venv
 .vscode
 *.sqlite3
+staticfiles/
