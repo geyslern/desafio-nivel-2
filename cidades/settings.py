@@ -152,6 +152,7 @@ if AWS_ACCESS_KEY_ID:
     COLLECTFAST_ENABLED = True
 
     # Static assets
+    COLLECTFAST_STRATEGY = "collectfast.strategies.boto3.Boto3Strategy"
     STATICFILES_STORAGE = 's3_folder_storage.s3.StaticStorage'
     STATIC_S3_PATH = 'static'
     STATIC_ROOT = f'/{STATIC_S3_PATH}/'
