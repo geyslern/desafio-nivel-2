@@ -9,5 +9,8 @@ class Cidade(models.Model):
     nome = models.CharField(max_length=35)
     estado = models.ForeignKey(Estado, on_delete=models.CASCADE)
 
+    def __repr__(self):
+        return str(f'{str(self.nome)} - {str(self.estado.sigla)}')
+
     def __str__(self):
-        return f'{self.nome} - {self.estado.sigla}'
+        return f'{str(self.nome)} - {str(self.estado.sigla)}'
